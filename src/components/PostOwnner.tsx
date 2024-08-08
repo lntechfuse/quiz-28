@@ -4,14 +4,14 @@ export default function PostOwnner({}) {
     <div className="vstack gap-3">
           <div className="d-flex align-items-center gap-3">
             <img
-              src="/profileImages/650612144pic.jpg"
+              src="/profileImages/660612144pic.jpg"
               width="48"
               height="48"
               className="rounded-circle"
               style={{ objectFit: "cover" }}
             />
             <span className="fw-semibold fs-5 text-white">
-              ณัฐวัตร อิธิตา 660612144
+              Nattawat ittita 660612144
             </span>
           </div>
 
@@ -24,7 +24,6 @@ export default function PostOwnner({}) {
             <span style={{ color: "#B0B3B8" }}>100 คน</span>
           </div>
           <hr className="m-0 border" />
-        </div>
-  
-  </div>;
+        </div> 
+    </div>;
 }
