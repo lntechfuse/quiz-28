@@ -12,7 +12,7 @@ export default function Reply({ ImagePath, username, replyTitle, likes }) {
           />
           <div
             className="rounded rounded-3 p-2"
-            style={{ backgroundColor: "#3A3B3C" }}
+            style={{ backgroundColor: "#ฺB2B2B2" }}
           >
             <span className="fw-semibold" style={{ color: "#E4E6EB" }}>
              {username}
